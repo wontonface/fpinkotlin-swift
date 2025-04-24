@@ -29,9 +29,22 @@
 		BBCD1CFE2DBAA73A007A495B /* fpinkotlin-swiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "fpinkotlin-swiftUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		BBCD1D322DBAAEA3007A495B /* Exceptions for "fpinkotlin-swift" folder in "fpinkotlin-swiftTests" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				src/test/swift/chapter3/solutions/ex2/setHead.swift,
+			);
+			target = BBCD1CF32DBAA73A007A495B /* fpinkotlin-swiftTests */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		BBCD1CE52DBAA73A007A495B /* fpinkotlin-swift */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				BBCD1D322DBAAEA3007A495B /* Exceptions for "fpinkotlin-swift" folder in "fpinkotlin-swiftTests" target */,
+			);
 			path = "fpinkotlin-swift";
 			sourceTree = "<group>";
 		};
