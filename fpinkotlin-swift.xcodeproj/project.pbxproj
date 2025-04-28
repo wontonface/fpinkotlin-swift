@@ -36,6 +36,9 @@
 				src/test/swift/chapter3/solutions/ex2/setHead.swift,
 				src/test/swift/chapter3/solutions/ex3/drop.swift,
 				src/test/swift/chapter3/solutions/ex4/dropWhile.swift,
+				src/test/swift/chapter3/solutions/ex8/length.swift,
+				src/test/swift/chapter3/solutions/ex9/foldLeft.swift,
+				src/test/swift/chapter3/solutions/ex10/sumProductLength.swift,
 			);
 			target = BBCD1CF32DBAA73A007A495B /* fpinkotlin-swiftTests */;
 		};

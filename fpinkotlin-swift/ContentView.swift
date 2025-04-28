@@ -34,6 +34,17 @@ enum List<Element> {
     }
 }
 
+func foldRight<A, B> (_ xs: List<A>, _ z: B, _ f: @escaping (A, B) -> B) -> B {
+    switch xs {
+    case .none: return z
+    case let .cons(head, tail): return f(head, foldRight(tail, z, f))
+    }
+}
+
+
+    
+    
+    
 struct ContentView: View {
     var body: some View {
         VStack {
