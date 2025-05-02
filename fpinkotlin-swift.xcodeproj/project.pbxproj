@@ -39,6 +39,17 @@
 				src/test/swift/chapter3/solutions/ex8/length.swift,
 				src/test/swift/chapter3/solutions/ex9/foldLeft.swift,
 				src/test/swift/chapter3/solutions/ex10/sumProductLength.swift,
+				src/test/swift/chapter3/solutions/ex11/reverse.swift,
+				src/test/swift/chapter3/solutions/ex12/foldLeftFoldRight.swift,
+				src/test/swift/chapter3/solutions/ex14/flatten.swift,
+				src/test/swift/chapter3/solutions/ex15/increment.swift,
+				src/test/swift/chapter3/solutions/ex16/toString.swift,
+				src/test/swift/chapter3/solutions/ex17/map.swift,
+				src/test/swift/chapter3/solutions/ex18/filter.swift,
+				src/test/swift/chapter3/solutions/ex19/flatMap.swift,
+				src/test/swift/chapter3/solutions/ex20/filterUsingFlatMap.swift,
+				src/test/swift/chapter3/solutions/ex21/addCorresponding.swift,
+				src/test/swift/chapter3/solutions/ex22/zipWith.swift,
 			);
 			target = BBCD1CF32DBAA73A007A495B /* fpinkotlin-swiftTests */;
 		};
