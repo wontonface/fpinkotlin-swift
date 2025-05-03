@@ -50,6 +50,9 @@
 				src/test/swift/chapter3/solutions/ex20/filterUsingFlatMap.swift,
 				src/test/swift/chapter3/solutions/ex21/addCorresponding.swift,
 				src/test/swift/chapter3/solutions/ex22/zipWith.swift,
+				src/test/swift/chapter3/solutions/ex23/hasSubsequence.swift,
+				src/test/swift/chapter3/solutions/ex24/size.swift,
+				src/test/swift/chapter3/solutions/ex25/maximum.swift,
 			);
 			target = BBCD1CF32DBAA73A007A495B /* fpinkotlin-swiftTests */;
 		};

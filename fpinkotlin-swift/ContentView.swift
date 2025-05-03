@@ -41,7 +41,10 @@ func foldRight<A, B> (_ xs: List<A>, _ z: B, _ f: @escaping (A, B) -> B) -> B {
     }
 }
 
-
+indirect enum Tree<A> {
+    case leaf(A)
+    case branch(Tree<A>, Tree<A>)
+}
     
     
     
