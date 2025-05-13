@@ -53,6 +53,8 @@
 				src/test/swift/chapter3/solutions/ex23/hasSubsequence.swift,
 				src/test/swift/chapter3/solutions/ex24/size.swift,
 				src/test/swift/chapter3/solutions/ex25/maximum.swift,
+				src/test/swift/chapter4/solutions/ex1/option.swift,
+				src/test/swift/chapter4/solutions/ex2/variance.swift,
 			);
 			target = BBCD1CF32DBAA73A007A495B /* fpinkotlin-swiftTests */;
 		};
